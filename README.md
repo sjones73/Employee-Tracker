@@ -57,6 +57,7 @@ Video Demonstration
 Please refer to the walkthrough video demonstrating the application's functionality and meeting the acceptance criteria.
 
 ### Walkthrough Video
+https://drive.google.com/file/d/1sKmJ1Pnpc0Fz5VWSuaNbXVPNPjzuGqSl/view?usp=sharing
 
 ### Credits
 I had assistance with my tutor Joem C.
